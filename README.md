@@ -1,13 +1,13 @@
-### Hola, soy Grean 👋
-Aspirante a **analista SOC**, en preparación para CompTIA Security+ SY0-701.
+### Hi, I'm Grean 👋
+Aspiring **SOC analyst**, preparing for the CompTIA Security+ SY0-701 certification.
 
-**Lo que construyo**
-- 🛡️ Laboratorio SOC en VirtualBox: Wazuh SIEM + víctima Linux + atacante Kali
-- 🔎 Detección y análisis con Splunk (SPL) y Wireshark
-- 🤖 Contención automática con Wazuh Active Response
+**What I build**
+- 🛡️ SOC home lab in VirtualBox: Wazuh SIEM + Linux victim + Kali attacker
+- 🔎 Detection and analysis with Splunk (SPL) and Wireshark
+- 🤖 Automated containment with Wazuh Active Response
 
-**Labs destacados**
-- [Lab 07: Purple Team con Wazuh](https://github.com/grean-cybersec/security-plus-labs/tree/main/Lab-07-Purple-Team-Wazuh)
-- [Lab 06: Respuesta a incidentes](https://github.com/grean-cybersec/security-plus-labs/tree/main/Lab-06-Incident-Response)
+**Featured labs**
+- [Lab 07: Purple Team with Wazuh](https://github.com/grean-cybersec/security-plus-labs/tree/main/Lab-07-Purple-Team-Wazuh)
+- [Lab 06: Incident Response](https://github.com/grean-cybersec/security-plus-labs/tree/main/Lab-06-Incident-Response)
 
-Repo principal: [security-plus-labs](https://github.com/grean-cybersec/security-plus-labs)
+Main repo: [security-plus-labs](https://github.com/grean-cybersec/security-plus-labs)
